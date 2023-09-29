@@ -1,6 +1,6 @@
 # fileshareFron 
 
-<-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT -->
 ## Built With
 - Frontend: React.js
 - Backend: Nodejs,Express.js
